@@ -1,0 +1,8 @@
+{
+  "name": "HydroClean",
+  "description": "AI-powered platform for monitoring and reporting aquatic plastic pollution. Analyze plastic types, counts, and intensity from images with geolocation tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
